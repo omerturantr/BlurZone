@@ -1,7 +1,7 @@
 <h1 align="center">🌀 BlurZone</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/omerturantr/BlurZone/main/BlurZone%20Icon.ico" width="100" alt="App Icon"/>
+  <img src="https://github.com/user-attachments/assets/5b7c50b7-e69c-4a5f-8769-1f6953e4cc48" width="100" alt="App Icon"/>
 </p>
 
 <p align="center">
