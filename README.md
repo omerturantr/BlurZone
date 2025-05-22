@@ -78,7 +78,7 @@ BlurZone/
 
 ## 👤 Developer
 
-Made with ❤️ by [@omerturantr](https://github.com/omerturantr)
+Made with by [@omerturantr](https://github.com/omerturantr)
 
 ---
 
