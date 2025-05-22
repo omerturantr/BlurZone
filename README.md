@@ -1,7 +1,7 @@
 <h1 align="center">🌀 BlurZone</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/omerturantr/BlurZone/main/BlurZone%20Icon.ico" width="100" alt="App Icon"/>
+  <img src="https://github.com/user-attachments/assets/5b7c50b7-e69c-4a5f-8769-1f6953e4cc48" width="100" alt="App Icon"/>
 </p>
 
 <p align="center">
@@ -28,13 +28,20 @@
 
 ---
 
-## 🧪 Demo
+## 📷 Before / After Example
 
-> 📷 Add a screenshot here, or a short .gif of usage
+<table>
+  <tr>
+    <td align="center"><b>Before</b></td>
+    <td align="center"><b>After</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/omerturantr/BlurZone/main/Pictures/Elderly_Original.jpg" width="300"></td>
+    <td><img src="https://raw.githubusercontent.com/omerturantr/BlurZone/main/Pictures/Elderly_Blurred.jpg" width="300"></td>
+  </tr>
+</table>
 
-```
-📍 Tip: You can record your screen with ShareX, upload to GitHub, and link it here.
-```
+> ℹ️ Make sure the above images exist in your repository under the `Pictures/` folder.
 
 ---
 
@@ -69,8 +76,11 @@ python main.py
 BlurZone/
 ├── main.py
 ├── Elderly Man.jpg
+├── Pictures/
+│   ├── Elderly_Original.jpg
+│   └── Elderly_Blurred.jpg
 ├── blurzone.ico
-├── dist/ (exe)
+├── dist/
 └── README.md
 ```
 
