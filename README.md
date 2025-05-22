@@ -1,75 +1,87 @@
-# 🔵 BlurZone
+<h1 align="center">🌀 BlurZone</h1>
 
-🖼️ **BlurZone** is a simple desktop application to blur specific areas of an image using mouse selection, with support for undo/redo actions. Built using Python and OpenCV.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/omerturantr/BlurZone/main/BlurZone%20Icon.ico" width="100" alt="App Icon"/>
+</p>
 
-![BlurZone Logo](https://raw.githubusercontent.com/omerturantr/BlurZone/main/BlurZone%20Icon.ico)
+<p align="center">
+  <b>Blur any part of an image with ease – just click, drag, and blur.</b><br>
+  🖼️ Built with Python + OpenCV + Tkinter
+</p>
+
+<p align="center">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/omerturantr/BlurZone?style=flat-square">
+  <img alt="GitHub stars" src="https://img.shields.io/github/stars/omerturantr/BlurZone?style=flat-square">
+  <img alt="License" src="https://img.shields.io/github/license/omerturantr/BlurZone?style=flat-square">
+</p>
 
 ---
 
-## 🚀 Features
+## ✨ Features
 
-- 🎯 Select and blur any region with your mouse
-- ↩️ Undo (Ctrl+Z) and Redo (Ctrl+Y) support
-- 📷 Image scaling and live feedback with counter
-- 🪄 Smooth UI experience with window positioning
-- 🧠 Ideal for redacting or anonymizing parts of photos
+- 🖱️ Select rectangular area with mouse
+- 💨 Apply instant Gaussian blur
+- 🔁 Undo/Redo support with keyboard (Ctrl+Z / Ctrl+Y)
+- 📐 Auto scaling and repositioning of window
+- 🔢 Change count shown in top-right corner
+- 🎯 Ideal for anonymizing faces or details in images
 
 ---
 
-## 🛠️ Installation
+## 🧪 Demo
 
-1. Clone the repository or download the ZIP:
+> 📷 Add a screenshot here, or a short .gif of usage
+
+```
+📍 Tip: You can record your screen with ShareX, upload to GitHub, and link it here.
+```
+
+---
+
+## ⚙️ Installation
+
 ```bash
 git clone https://github.com/omerturantr/BlurZone.git
-```
-
-2. Navigate to the folder:
-```bash
 cd BlurZone
-```
-
-3. (Optional) Install dependencies if using the source code:
-```bash
-pip install opencv-python tk
-```
-
-4. Run the app:
-```bash
+pip install -r requirements.txt
 python main.py
 ```
 
-If you are using the `.exe`, just double-click `BlurZone.exe`
+✅ Or run the portable `BlurZone.exe` directly.
 
 ---
 
-## 🖱️ Usage
+## 🖱️ How to Use
 
-- Use your **mouse** to select a rectangular area to blur.
-- Hit **ESC** to exit the app.
-- Use **Ctrl+Z** to undo, and **Ctrl+Y** to redo.
-- Change count is displayed at the top right.
+1. Open an image (`Elderly Man.jpg` is included)
+2. Click and drag to draw a rectangle
+3. The selected area will be blurred
+4. Use:
+   - `ESC` → Exit
+   - `Ctrl + Z` → Undo
+   - `Ctrl + Y` → Redo
 
 ---
 
-## 📁 Project Structure
+## 📁 Folder Structure
 
 ```
 BlurZone/
-├── main.py             # Main Python app
-├── Elderly Man.jpg     # Sample image
-├── blurzone.ico        # Application icon
-├── dist/               # Folder with executable
-└── README.md           # This file
+├── main.py
+├── Elderly Man.jpg
+├── blurzone.ico
+├── dist/ (exe)
+└── README.md
 ```
 
 ---
 
-## 👨‍💻 Developer
+## 👤 Developer
 
-Developed by [@omerturantr](https://github.com/omerturantr)
+Made with ❤️ by [@omerturantr](https://github.com/omerturantr)
 
 ---
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
