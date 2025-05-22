@@ -36,8 +36,8 @@
     <td align="center"><b>After</b></td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/omerturantr/BlurZone/main/Pictures/Elderly_Original.jpg" width="300"></td>
-    <td><img src="https://raw.githubusercontent.com/omerturantr/BlurZone/main/Pictures/Elderly_Blurred.jpg" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/5bd3b8b1-fb01-4eeb-b730-fd77dfa0c375" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/9ceb996f-3e92-44fa-920a-2f49a87fe99c" width="300"></td>
   </tr>
 </table>
 
