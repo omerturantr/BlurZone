@@ -19,7 +19,7 @@
 
 ## ✨ Features
 
-- 🖱️ Select rectangular area with mouse
+- 🖱️ Select rectangular area with mous
 - 💨 Apply instant Gaussian blur
 - 🔁 Undo/Redo support with keyboard (Ctrl+Z / Ctrl+Y)
 - 📐 Auto scaling and repositioning of window
