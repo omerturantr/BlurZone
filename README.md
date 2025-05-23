@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>Blur any part of an image with ease – just click, drag, and blur.</b><br>
-  🖼️ Built with Python + OpenCV + Tkinter
+  🖼️ Built with Python + OpenCV + Tkinte
 </p>
 
 <p align="center">
