@@ -24,7 +24,7 @@
 - 🔁 Undo/Redo support with keyboard (Ctrl+Z / Ctrl+Y)
 - 📐 Auto scaling and repositioning of window
 - 🔢 Change count shown in top-right corner
-- 🎯 Ideal for anonymizing faces or details in image
+- 🎯 Ideal for anonymizing faces or details in images
 
 ---
 
