@@ -41,7 +41,7 @@
   </tr>
 </table>
 
-> ℹ️ Make sure the above images exist in your repository under the `Pictures/` folder.
+> ℹ️ Make sure the above images exist in your repository under the `Pictures/` folder
 
 ---
 
